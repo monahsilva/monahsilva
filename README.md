@@ -30,6 +30,13 @@ Sinta-se à vontade para entrar em contato para colaborações ou discussões so
 ## Contribuições
 - Contribuidora ativa em projetos públicos e fóruns relacionados a C/C++.
 - Sempre em busca de compartilhar experiências e contribuir para a comunidade.
+  
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/monalisa-conceição-silva/)
+- [GitHub](https://github.com/monahsilva)
+- [Email](monalisasilvapa@gmail.com)
+
+  
 
 ### Hello, I'm Monalisa 👋
 
@@ -68,10 +75,4 @@ Feel free to reach out for collaborations or discussions on the topics below!
 - [LinkedIn](https://www.linkedin.com/in/monalisa-conceição-silva/)
 - [GitHub](https://github.com/monahsilva)
 - Email: monalisasilvapa@gmail.com
-
-
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/monalisa-conceição-silva/)
-- [GitHub](https://github.com/monahsilva)
-- [Email](monalisasilvapa@gmail.com)
 
