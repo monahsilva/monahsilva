@@ -5,6 +5,7 @@ Sinta-se à vontade para entrar em contato para colaborações ou discussões so
 
 ## Formação Acadêmica
 - Graduação em Engenharia em Telecomunicações.
+- Pós-graduação em Desenvolvimento Full Stack.
 - Mestrado em Engenharia de Software (em andamento).
 
 ## Experiência Profissional
