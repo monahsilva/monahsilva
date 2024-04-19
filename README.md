@@ -46,6 +46,7 @@ Feel free to reach out for collaborations or discussions on the topics below!
 
 ## Academic Background
 - Bachelor's degree in Telecommunications Engineering.
+- Postgraduate degree in Full Stack Development.
 - Master's degree in Software Engineering (in progress).
 
 ## Professional Experience
