@@ -1,6 +1,4 @@
-### <img src="
-https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-width="50"> Olá, sou a Monalisa 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Olá, sou a Monalisa 
 
 A seguir poderá conhecer um pouquinho do meu perfil profissional. 
 Sinta-se à vontade para entrar em contato para colaborações ou discussões sobre os tópicos abaixo!
